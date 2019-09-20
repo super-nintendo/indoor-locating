@@ -24,9 +24,11 @@ MCSDisplayOnOff    remote("led");
 
 #define LED_PIN 7
 
-char mqttServer[] = "140.118.25.64";
-char Username [] = "a579ff87-ef44-4f4f-971d-960225bd77d5";
-char password [] = "r:c8e707b77ce187e217d3f010cab98457";
+//Add mqttserver, username, password
+
+char mqttServer[] = "140.XXX.XX.XX";
+char Username [] = "a579ff87-XXXX-XXXX-XXXX-XXXXXXXXXXXX";
+char password [] = "r:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 char clientId[] = "switch_1568117694";
 char myqnapcloudHost [] = "id4c.myqnapcloud.com:8080";
 char publishTopic1 [] = "RSSI";
@@ -90,13 +92,7 @@ void setup(){
 //  
 //  // configure our advertisement data as iBeacon.
   LBLEAdvertisementData beaconData;
-
-  // make an Eddystone-URL beacon that this board casts
-  //beaconData.configAsEddystoneURL(EDDY_HTTPS, "goo.gl/evYXvt", EDDY_DOT_COM);
-  //Serial.print("Start advertising Eddystone-URL");
-
   beaconData.configAsIBeacon("096C00000-DFFB-48D2-B060-D0F5A71096E0", 01, 02, -40);
-
   // start advertising it
   LBLEPeripheral.advertiseAsBeacon(beaconData);
 
