@@ -1,9 +1,3 @@
-//Mediatek error on example
-//original    WiFi.begin(_SSID);
-//correct     WiFi.begin(_SSID, _KEY);
-
-
-
 #include <LWiFi.h>
 #include <WiFiClient.h>
 #include "MCS.h"
