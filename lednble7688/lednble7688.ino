@@ -9,7 +9,7 @@
 
 // Assign AP ssid / password here
 #define _SSID "LinkIt_Smart_7688_1B8B79"
-#define _KEY  "118linkit++"
+#define _KEY  "XXXXXXXXXXX"
 
 
 //MCSLiteDevice mcs("HJYw0tkLS", "17e37edfbcf9f2f88093b3d64368b63162c57dd687f7f0b7861e8a547bc25d53", "192.168.50.29", 3000);      //81
