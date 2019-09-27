@@ -1,3 +1,9 @@
+//For safety reasons, sensitive information about IP addresses and SSID Keys have been avoided
+//The variables defined as "XXXXX" will need to be setup by each developer under its own domain
+
+
+//If you have difficulties obtaining your different credentials, please visit the README.md file
+
 #include <LWiFi.h>
 #include <WiFiClient.h>
 #include "MCS.h"
