@@ -58,15 +58,8 @@ WoT/WebSocket server is listening at ws://0.0.0.0:8000
 
 User flows
 ---
-```sequence
-Alice->Bob: Hello Bob, how are you?
-Note right of Bob: Bob thinks
-Bob-->Alice: I am good thanks!
-Note left of Alice: Alice responds
-Alice->Bob: Where have you been?
-```
 
-> Read more about sequence-diagrams here: http://bramp.github.io/js-sequence-diagrams/
+Under development
 
 
 ## Appendix and FAQ
