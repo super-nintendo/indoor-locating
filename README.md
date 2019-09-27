@@ -66,7 +66,8 @@ Under development
 
 If you need more information regarding the different points exposed, please visit the following extra information.
 
->[Exploring MQTT Protocol](https://kokonatt.com/embedded/mqtt-with-esp8266#two-devices) [name=Adrian Benavides]
+>[Exploring MQTT Protocol](https://kokonatt.com/embedded/mqtt-with-esp8266#two-devices) 
+[Adrian Benavides]
 
 
 ###### tags: `Indoor Location` `IoT` `Cloud` `LAN`  `MCS` `MQTT` `Eddystone` 
