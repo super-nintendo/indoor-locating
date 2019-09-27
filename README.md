@@ -6,8 +6,6 @@
 
 ## Table of Contents
 
-[TOC]
-
 ## Beginners Guide
 
 If you are a total beginner to this, start here!
@@ -77,10 +75,5 @@ If you need more information regarding the different points exposed, please visi
 
 >[Exploring MQTT Protocol](https://kokonatt.com/embedded/mqtt-with-esp8266#two-devices) [name=Adrian Benavides]
 
-
-
-:::info
-**Find this document incomplete?** Leave a comment!
-:::
 
 ###### tags: `Indoor Location` `IoT` `Cloud` `LAN`  `MCS` `MQTT` `Eddystone` 
