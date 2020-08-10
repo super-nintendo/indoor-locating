@@ -1,9 +1,5 @@
 /*
-  This example configures LinkIt 7697 to send iBeacon-compatbile advertisement data.
-
   You should be able to search this device with iOS or Android iBeacon tools.
-
-  created Mar 2017
 */
 #include <LBLE.h>
 #include <LBLEPeriphral.h>
